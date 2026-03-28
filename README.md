@@ -8,45 +8,32 @@
 
 ## 🚀 Tech Stack
 
-**Frontend:**
-HTML • CSS • JavaScript • React • Bootstrap
+**Languages:**
+Python • Java • C/C++ • C# • JavaScript • SQL • Bash
 
-**Backend:**
-Node.js • Express • PHP • CGI (Perl, Python, Ruby)
+**Frameworks & Tools:**
+React • Node.js • Express • MongoDB • Unity • Git • Jira • Figma
 
-**Database:**
-MongoDB
+**Data & Systems:**
+MySQL • Oracle SQL • Database Design • ER Modeling • Query Optimization
 
-**Tools:**
-Git • GitHub • VS Code
-
----
-
-## 📌 Projects
-
-### 📝 Full-Stack Notes App
-
-* Built with React (Vite), Node.js, Express, and MongoDB
-* Implemented full CRUD functionality
-* Designed RESTful API with validation and error handling
-
-### 🌐 Web Development Labs
-
-* Progression from HTML/CSS to JavaScript and server-side scripting
-* Includes responsive design, form validation, SVG graphics
-* Worked with PHP and CGI (Perl, Python, Ruby, ASP)
+**Core Skills:**
+Object-Oriented Programming • Algorithms • Debugging • Agile/Scrum • Automation
 
 ---
+
 
 ## 📈 GitHub Stats
 
-![Rainier's GitHub stats](https://github-readme-stats.vercel.app/api?username=Reinyerr&show_icons=true&theme=tokyonight&hide_border=true)
+![Reinyerr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Reinyerr&show_icons=true&theme=tokyonight&hide_border=true)
+
+
 
 ---
 
 ## 📫 Connect With Me
 
-* LinkedIn: (add your link here)
+* LinkedIn: https://www.linkedin.com/in/rainier-jorge-jorda-326aa2246/ 
 
 ---
 
