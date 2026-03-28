@@ -1,8 +1,6 @@
-# Hi, I'm Rainier 👋
+# Hi, I'm Rainier Jorge Jorda 👋
 
-💻 Computer Science student passionate about full-stack development
-🌐 Building web applications with modern technologies
-📚 Always learning and improving my skills
+I'm a 3rd year Computer Science student in Toronto Metropolitan University focused on full-stack development, with experience building web applications, automation tools, and database systems, and a strong commitment to continuous learning.
 
 ---
 
