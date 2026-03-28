@@ -27,6 +27,7 @@ Object-Oriented Programming • Algorithms • Debugging • Agile/Scrum • Aut
 
 ![Reinyerr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Reinyerr&show_icons=true&theme=tokyonight&hide_border=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reinyerr&layout=compact&theme=tokyonight&hide_border=true)
 
 
 ---
