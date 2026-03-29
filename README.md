@@ -4,7 +4,7 @@ I'm a 3rd year Computer Science student in Toronto Metropolitan University focus
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 **Languages:**
 Python • Java • C/C++ • C# • JavaScript • SQL • Bash
@@ -21,19 +21,19 @@ Object-Oriented Programming • Algorithms • Debugging • Agile/Scrum • Aut
 ---
 
 
-## 📈 GitHub Stats
+## GitHub Stats
 
-![Reinyerr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Reinyerr&show_icons=true&theme=tokyonight&hide_border=true)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Reinyerr?cardType=octocat&theme=github-dark&fontFamily=&preferLogin=true)](https://git.io/awesome-stats-card)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reinyerr&layout=compact&theme=tokyonight&hide_border=true)
 
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 * LinkedIn: https://www.linkedin.com/in/rainier-jorge-jorda-326aa2246/ 
 
 ---
 
-⭐️ Feel free to check out my repositories and projects!
+## Feel free to check out my repositories and projects!
